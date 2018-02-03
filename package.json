@@ -1,0 +1,19 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman hw",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Earl Clarin <earl.clarin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "is-letter": "^1.1.1",
+    "prompt": "^1.0.0"
+  }
+}
